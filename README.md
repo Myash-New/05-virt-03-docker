@@ -4,7 +4,7 @@ https://hub.docker.com/repository/docker/myashnew2/custom-nginx/general
 
 # Задача 2
 
-![Консоль скрин] ()
+![Консоль скрин] (https://github.com/Myash-New/05-virt-03-docker/blob/main/Task2.jpg)
 
 # Задача 3
 
