@@ -1,6 +1,6 @@
 # Задача 1
 
-![Ответ](https://hub.docker.com/repository/docker/myashnew2/custom-nginx/general)
+https://hub.docker.com/repository/docker/myashnew2/custom-nginx/general
 
 # Задача 2
 
